@@ -14,7 +14,7 @@ Atualmente, estou em busca de uma oportunidade de estágio na área e sigo estud
 
 ## Contato
 <a href="https://github.com/markvn2" target="_blank"><img src="https://img.shields.io/badge/-Github-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vinícius-felipe-forcato-789462268" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/markos-vin%C3%ADcius-nunes-230448268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logoColor=white" target="_blank"></a>
 <a href = "mailto:markosvinicius.nunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
