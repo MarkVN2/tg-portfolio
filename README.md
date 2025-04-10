@@ -45,6 +45,8 @@ Ferramentas
 
 O projeto Plataforma Scrum desenvolvido no primeiro semestre do curso teve como empresa parceira a FATEC, sob a orientação do professor Antônio Egydio.
 
+[Acesso ao projeto no github](https://github.com/Byte-Boost/Plataforma-Scrum)
+
 O problema apresentado pelo cliente era que seus colaboradores não conheciam a metodologia ágil Scrum e, por isso, muitas vezes tinham dificuldade em aplicá-la nos projetos. Essa dificuldade surgiu, em grande parte, pela falta de materiais disponíveis para estudo e capacitação.
 
 A solução desenvolvida pela minha equipe foi um sistema web didático e interativo, voltado para o ensino da metodologia Scrum. A plataforma apresenta todos os artefatos do Scrum, exemplos práticos e arquivos de apoio para facilitar o aprendizado. Além disso, inclui um formulário de avaliação para medir o conhecimento dos usuários que utilizarem o sistema.
