@@ -5,7 +5,7 @@
 
 <p align="justify"  >
   Olá! Me chamo Markos, tenho 20 anos e iniciei meus estudos na área de computação em 2020, logo após concluir o ensino fundamental. Comecei aprendendo C# e desenvolvendo calculadoras simples para auxiliar nos estudos do ensino médio.
- Para me aprofundar na área decidi cursar Analise e Desenvolvimento de Sistemas na FATEC de São José dos Campos entrando em 2023 logo após o fim do ensino médio.
+ Para me aprofundar na área decidi cursar Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos entrando em 2023 logo após o fim do ensino médio.
   
 Minha maior motivação vem da curiosidade em entender como as coisas em um computador funcionam e de como cria-las. Esse interesse me levou a explorar linguagens fora do currículo tradicional da FATEC, como C++ e C#, especialmente após despertar uma curiosidade em saber como funciona o desenvolvimento de jogos eletrônicos.
 
