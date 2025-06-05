@@ -334,7 +334,7 @@ AWS
 
 #### Contribuições pessoais
 
-NNeste projeto, atuei como Product Owner, sendo responsável por manter o alinhamento entre o time de desenvolvimento e o cliente, esclarecendo dúvidas da equipe e validando requisitos diretamente com a empresa parceira.
+Neste projeto, atuei como Product Owner, sendo responsável por manter o alinhamento entre o time de desenvolvimento e o cliente, esclarecendo dúvidas da equipe e validando requisitos diretamente com a empresa parceira.
 
 Fui responsável por gerar o APK final da aplicação mobile, realizar o deploy do back-end na AWS e implementar um revamp visual em diversas telas da aplicação, como login, home, lista de reembolsos, projetos, perfil do usuário e página sobre.
 
