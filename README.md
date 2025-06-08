@@ -1,6 +1,6 @@
 <h1 align="center">Markos Vinícius Nunes da Silva</h1> 
 <div style="display: inline_block">
-  <img align="right" src="https://github.com/user-attachments/assets/f0fd6a7b-7ef2-46ad-bca8-5d903b8a42db" alt="Foto de Perfil" height="20%" width="20%">
+  <img align="right" src="https://images.weserv.nl/?url=https://github.com/markvn2.png?h=400&w=400&fit=cover&mask=circle" alt="Foto de Perfil" height="20%" width="20%">
 </div>
 
 <p align="justify"  >
