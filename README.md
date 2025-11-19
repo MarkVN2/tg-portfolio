@@ -296,6 +296,8 @@ O projeto ExpenseFlow desenvolvido durante o quarto semestre do curso, teve como
 
 [Acesso ao projeto no github](https://github.com/Byte-Boost/ExpenseFlow)
 
+A empresa parceira tinha a necessidade de uma solução para a gerencia de reembolsos corporativos, ajudando em solicitações, acompanhamento do reembolso e verificação da aprovação dessas despesas.
+
 Como solução, a equipe desenvolveu o ExpenseFlow, uma aplicação mobile-first voltada à gestão e requisição de reembolsos. A plataforma oferece uma interface intuitiva e responsiva, com foco em simplicidade, agilidade e transparência. Entre suas funcionalidades estão: solicitação de reembolsos, acompanhamento de status, filtros por período, visualização de valores totais por mês, controle de projetos e área de perfil do usuário. O sistema promove maior controle financeiro e reduz o tempo gasto com processos manuais.
 
 Além disso foi desenvolvido um painel web em React e Next.js que permite aos administradores gerenciar e aprovar as solicitações, além de configurar preferências específicas para cada projeto em que se possa solicitar um reembolso.
