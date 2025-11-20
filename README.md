@@ -30,7 +30,7 @@ Linguagens
 <h3>
 Frameworks
 </h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs&perline=7">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,spring&perline=7">
 <h3>
 Database
 </h3>
