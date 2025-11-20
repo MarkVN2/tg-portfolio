@@ -4,7 +4,7 @@
 </div>
 
 <p align="justify"  >
-  Olá! Me chamo Markos, tenho 20 anos e iniciei meus estudos na área de computação em 2020, logo após concluir o ensino fundamental. Comecei aprendendo C# e desenvolvendo calculadoras simples para auxiliar nos estudos do ensino médio.
+  Olá! Me chamo Markos, tenho 21 anos e iniciei meus estudos na área de computação em 2020, logo após concluir o ensino fundamental. Comecei aprendendo C# e desenvolvendo calculadoras simples para auxiliar nos estudos do ensino médio.
  Para me aprofundar na área decidi cursar Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos entrando em 2023 logo após o fim do ensino médio.
   
 Minha maior motivação vem da curiosidade em entender como as coisas em um computador funcionam e de como cria-las. Esse interesse me levou a explorar linguagens fora do currículo tradicional da FATEC, como C++ e C#, especialmente após despertar uma curiosidade em saber como funciona o desenvolvimento de jogos eletrônicos.
@@ -377,64 +377,52 @@ O projeto desenvolvido durante o sexto semestre do curso, teve como empresa parc
 
 [Acesso ao projeto no github](https://github.com/Byte-Boost/Junipy)
 
-(temp will change)
-A empresa parceira tinha a necessidade de uma solução para a gerencia de reembolsos corporativos, ajudando em solicitações, acompanhamento do reembolso e verificação da aprovação dessas despesas.
+A empresa parceira  consistia na necessidade de facilitar o processo de orientação nutricional, onde usuários pudessem receber acompanhamento contínuo sem depender exclusivamente de atendimentos presenciais.
 
-Como solução, a equipe desenvolveu o ExpenseFlow, uma aplicação mobile-first voltada à gestão e requisição de reembolsos. A plataforma oferece uma interface intuitiva e responsiva, com foco em simplicidade, agilidade e transparência. Entre suas funcionalidades estão: solicitação de reembolsos, acompanhamento de status, filtros por período, visualização de valores totais por mês, controle de projetos e área de perfil do usuário. O sistema promove maior controle financeiro e reduz o tempo gasto com processos manuais.
-
-Além disso foi desenvolvido um painel web em React e Next.js que permite aos administradores gerenciar e aprovar as solicitações, além de configurar preferências específicas para cada projeto em que se possa solicitar um reembolso.
+Como solução, a equipe desenvolveu uma plataforma web, onde um paciente registrado pode interagir com um chatbot especializado em nutrição . O chatbot é capaz de guardar informações que serão utilizadas na criação de tabelas de nutrição personalizadas para o paciente se baseando nos dados fornecidos pelo paciente e pelo banco de dados da aplicação.
 
 #### Tecnologias
 
-TypeScript e JavaScript
+TypeScript e Vue
 
-- Utilizados no front-end e back-end para garantir tipagem estática e flexibilidade no desenvolvimento.
+- Linguagem e Framework utilizados no front-end do projeto
 
-React Native
+MongoDB e ChromaDB
 
-- Framework principal para a construção da aplicação mobile, com foco em responsividade e performance.
-
-React e Next.js
-
-- Utilizados para o painel web administrativo, que permite o controle e aprovação dos reembolsos, além da gestão das preferências dos projetos.
-
-Node.js, Express e Sequelize
-
-- Back-end estruturado com autenticação, controle de usuários e integração ao banco de dados relacional.
-
-MySQL e MongoDB
-
-- MySQL para armazenar dados estruturados como usuários, reembolsos e aprovações.
-
-- MongoDB utilizado especificamente para armazenar preferências de projetos, aproveitando a flexibilidade do banco orientado a documentos para configurar limites e opções diferentes por projeto.
+- MongoDB utilizado .
 
 TailwindCSS e CSS
 
 - Ferramentas de estilização usadas para garantir consistência visual e design adaptável.
 
-AWS
+Java e Springboot
 
-- Utilizado para hospedar o back-end, garantindo escalabilidade e acesso externo.
+-
+
+Python e FastAPI
+
+-
 
 #### Contribuições pessoais
 
-Neste projeto, atuei como Product Owner, sendo responsável por manter o alinhamento entre o time de desenvolvimento e o cliente, esclarecendo dúvidas da equipe e validando requisitos diretamente com a empresa parceira.
+Neste projeto, atuei como Dev Team,
 
-Fui responsável por gerar o APK final da aplicação mobile, realizar o deploy do back-end na AWS e implementar um revamp visual em diversas telas da aplicação, como login, home, lista de reembolsos, projetos, perfil do usuário e página sobre.
+Fui responsavel pelo estruturamento inicial do front-end criando as páginas de chat para conversação com o chatbot e páginas de login .
 
-Implementei também filtros para cálculo do total de reembolsos solicitados por mês e fiz a componentização da página de projetos de usuários, visando melhor reutilização e organização do código. Além disso, atuei ativamente no controle de qualidade do código, realizando code reviews em pull requests da equipe e promovendo boas práticas de desenvolvimento.
 
 #### Hard Skills
 
-| Hard Skill  | Nivel de Proficiência |
-| ----------- | --------------------- |
-| Typescript  | Consigo ensinar       |
-| Javascript  | Consigo ensinar       |
-| MySQL       | Consigo ensinar       |
+
+| Hard Skill  | Nivel de Proficiência | 
+| ----------  | --------------------- |
+| TypeScript  | Consigo ensinar       |
+| Vue.js      | Uso com autonomia     |
+| JavaScript  | Consigo ensinar       |
+| Node.js     | Consigo ensinar       |
+| Java        | Consigo ensinar       |
+| Springboot  | Uso com autonomia     |
+| Python      | Consigo ensinar       |
 | MongoDB     | Consigo ensinar       |
-| NodeJS      | Consigo ensinar       |
-| TailwindCSS | Consigo ensinar       |
-| CSS         | Consigo ensinar       |
 | Git         | Consigo ensinar       |
 
 #### Soft Skills
