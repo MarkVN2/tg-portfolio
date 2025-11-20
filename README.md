@@ -369,15 +369,15 @@ Minha atuação incluiu também autonomia técnica e visão de design, por meio 
 
 </details>
 <details>
-  <summary><strong>📙 Sexto Semestre (2025-2) - Junipy</strong></summary>
+  <summary><strong>📔 Sexto Semestre (2025-2) - Junipy</strong></summary>
   
 ### Sexto Semestre (2025-2) - Junipy
 
-O projeto desenvolvido durante o sexto semestre do curso, teve como empresa parceira a Xertica.IA.
+O projeto Junipy desenvolvido durante o sexto semestre do curso, teve como empresa parceira a Xertica.ai.
 
 [Acesso ao projeto no github](https://github.com/Byte-Boost/Junipy)
 
-A empresa parceira  consistia na necessidade de facilitar o processo de orientação nutricional, onde usuários pudessem receber acompanhamento contínuo sem depender exclusivamente de atendimentos presenciais.
+A empresa parceira viu uma necessidade de facilitar o processo de orientação nutricional de pacientes, onde esses poderiam receber acompanhamento recorrente sem necessidade de consultas presenciais, essa orientação assim como consultas presenciais deveria ter informações básicas do paciente para ser realizada.
 
 Como solução, a equipe desenvolveu uma plataforma web, onde um paciente registrado pode interagir com um chatbot especializado em nutrição . O chatbot é capaz de guardar informações que serão utilizadas na criação de tabelas de nutrição personalizadas para o paciente se baseando nos dados fornecidos pelo paciente e pelo banco de dados da aplicação.
 
@@ -389,7 +389,7 @@ TypeScript e Vue
 
 MongoDB e ChromaDB
 
-- MongoDB utilizado .
+- MongoDB utilizado para guardar dados de credenciamento,historico de mensagem e dados do paciente e o ChromaDB foi utilizado para guardar dados vetorizados das tabelas de dados nutricionais utilizados para consulta pela IA no microserviço.
 
 TailwindCSS e CSS
 
@@ -397,18 +397,17 @@ TailwindCSS e CSS
 
 Java e Springboot
 
--
+- Framework e linguagem utilizadas para criação do back-end de forma estruturada.
 
 Python e FastAPI
 
--
+- Linguagem e Framework utilizados no serviço de IA para o back-end, utilizada também para normalização dos dados de consulta nutricional para uso com a IA.
 
 #### Contribuições pessoais
 
-Neste projeto, atuei como Dev Team,
+Neste projeto, atuei como Dev Team, trabalhando no front-end, back-end e serviços de IA do projeto. No front-end responsavel pelo estruturamento inicial criando as páginas de chat para conversação com o chatbot e páginas de login. 
 
-Fui responsavel pelo estruturamento inicial do front-end criando as páginas de chat para conversação com o chatbot e páginas de login .
-
+No back-end, criei um websocket para conexão com o serviço de IA do projeto, estruturei também as rotas para recuperação de historico do paciente e de informações pessoais do mesmo. No serviço de IA fiz ferramentas para recuperação e modificação de dados do banco, onde a IA poderia utilizar elas para modificar dados do paciente quando o mesmo solicitar no chat, além de fazer as configurações iniciais do FastAPI para conversação entre o back-end e o serviço.
 
 #### Hard Skills
 
@@ -417,19 +416,16 @@ Fui responsavel pelo estruturamento inicial do front-end criando as páginas de 
 | ----------  | --------------------- |
 | TypeScript  | Consigo ensinar       |
 | Vue.js      | Uso com autonomia     |
-| JavaScript  | Consigo ensinar       |
-| Node.js     | Consigo ensinar       |
 | Java        | Consigo ensinar       |
 | Springboot  | Uso com autonomia     |
 | Python      | Consigo ensinar       |
+| FastAPI     | Consigo ensinar       |
 | MongoDB     | Consigo ensinar       |
 | Git         | Consigo ensinar       |
 
 #### Soft Skills
 
-Demonstrei liderança de produto e comunicação clara ao atuar como Product Owner, garantindo o alinhamento entre as demandas do cliente e o escopo técnico do projeto. Também contribuí com qualidade de código e colaboração técnica, realizando revisões detalhadas nas pull requests da equipe, propondo melhorias e promovendo boas práticas de desenvolvimento.
-
-Minha atuação incluiu também autonomia técnica e visão de design, por meio da implementação de melhorias visuais e funcionais na interface, além de integração e publicação da aplicação para uso externo, refletindo comprometimento com a entrega final e a experiência do usuário.
+Durante o desenvolvimento, contribui
 
 
 </details>
