@@ -425,7 +425,7 @@ No back-end, criei um websocket para conexão com o serviço de IA do projeto, e
 
 #### Soft Skills
 
-Durante o desenvolvimento, contribui
+Durante o desenvolvimento exerci liderança técnica, atuando ativamente na definição da estrutura do serviço de IA e no fluxo da aplicação, garantindo que a integração entre o front-end, back-end e a IA fosse eficiente e fluida. Trabalhei em colaboração com a equipe para assegurar que a IA pudesse recuperar dados corretamente e oferecer uma experiência personalizada e interativa para os pacientes. Minha contribuição envolveu decisões sobre a otimização da comunicação entre os sistemas e o planejamento das funcionalidades essenciais para o sucesso do projeto.
 
 
 </details>
