@@ -355,7 +355,7 @@ AWS
 
 Neste projeto, atuei como Product Owner, sendo responsável por manter o alinhamento entre o time de desenvolvimento e o cliente, esclarecendo dúvidas da equipe e validando requisitos diretamente com a empresa parceira.
 
-Sendo Product Owner criei o backlog com uma priorização baseada no MVP, fazendo com que as primeira sprint já dava ao cliente algo utilizavel em que as seguintes iterações teriam como base a primeira sprint incrementando nas features adicionadas nela. Além disso fui responsavel pelas releases do projeto no github.
+Sendo Product Owner criei o backlog com uma priorização baseada no MVP, fazendo com que a primeira sprint já dava ao cliente algo utilizavel em que as seguintes iterações teriam como base a primeira sprint incrementando nas features adicionadas nela. Utilizei plataformas como o Slack para comunicação com o cliente e Discord para comunicação com a equipe.
 
 <details>
    <summary><strong>Backlog - ExpenseFlow</strong></summary>
